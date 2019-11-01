@@ -169,7 +169,7 @@
 
 	
 	;; eshell
-	`(eshell-prompt ((,class (:foreground ,"firebrick1" :background ,bg1 :weight bold :height 0.9 ))))
+	`(eshell-prompt ((,class (:foreground ,"#FF903B" :background ,bg1 :weight bold :height 0.9 ))))
 	`(eshell-ls-directory ((,class (:foreground ,comment :background ,bg1 :weight bold :height 0.9))))
 	`(eshell-ls-symlink ((,class (:foreground ,"DeepPink" :background ,bg1 :weight normal :height 0.9))))
 	`(eshell-ls-executable ((,class (:foreground ,"green1" :background ,bg1 :weight bold :height 0.9))))
