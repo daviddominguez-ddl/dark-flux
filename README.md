@@ -1,2 +1,2 @@
 # emacs-dark-flux
-![](darkflux.png)
+![](dark-flux-screenshot.png)
