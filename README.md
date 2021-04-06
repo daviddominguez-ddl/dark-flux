@@ -1,2 +1,2 @@
 # emacs-dark-flux
-![screenshot](screenshot.png)
+![screenshot](dark-flux-theme.png)
