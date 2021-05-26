@@ -19,6 +19,7 @@ My settings for fonts:
 (add-hook 'text-mode-hook
       (lambda ()
         (variable-pitch-mode 1)))
-(set-face-attribute 'fixed-pitch nil :family "SF Mono")
+(set-face-attribute 'default nil :family "DejaVu Sans Mono" :height 110)
+(set-face-attribute 'fixed-pitch nil :family "DejaVu Sans Mono")
 (set-face-attribute 'variable-pitch nil :family "IBM Plex Sans")
 ```
